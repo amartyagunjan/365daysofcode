@@ -1,7 +1,7 @@
 # 365daysofcode
 It is a place to document the problem that I solve daily.
 
-## Day - 01, 01-01-2022
+### Day - 01, 01-01-2022
 
 Topic: LinkedList
 
