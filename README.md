@@ -1,5 +1,5 @@
 # 365daysofcode
-It is a place to document the problem that I solve daily.
+A place where I document solved problems from diffrent sources.
 
 ### Day - 01, 01-01-2022
 
