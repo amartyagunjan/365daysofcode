@@ -24,3 +24,12 @@ Topic: LinkedList
 7. Mergesort Linkedlist : https://nados.io/content/eb9863ac-63ac-4b94-881f-0aeb24df0985/0c54b191-7b99-4f2c-acb3-e7f2ec748b2a/7fdb0602-0ac9-4484-aff9-a898aed5cd28/d108313e-68c8-4fc6-bb02-6e9a9010ef9e/1e4c8949-5890-4d15-be5b-6601c7e2029a/question/a71d841d-1fca-4f90-b6c3-b55f9d182d2b
 8. Segregate Even And Odd Nodes In A Linkedlist : https://nados.io/content/eb9863ac-63ac-4b94-881f-0aeb24df0985/0c54b191-7b99-4f2c-acb3-e7f2ec748b2a/7fdb0602-0ac9-4484-aff9-a898aed5cd28/d108313e-68c8-4fc6-bb02-6e9a9010ef9e/1e4c8949-5890-4d15-be5b-6601c7e2029a/question/a5814dc7-4dd1-4845-a78b-67c185b05d22
 9. Remove Nth Node From End of List : https://leetcode.com/problems/remove-nth-node-from-end-of-list/
+
+### Day - 04, 04-01-2022
+
+Topic: LinkedList
+
+10. Merge k Sorted Lists : https://leetcode.com/problems/merge-k-sorted-lists/
+11. Reverse Nodes in k-Group : https://leetcode.com/problems/reverse-nodes-in-k-group/
+12. Reverse Linked List II : https://leetcode.com/problems/reverse-linked-list-ii/
+13. Copy List with Random Pointer : https://leetcode.com/problems/copy-list-with-random-pointer/
