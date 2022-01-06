@@ -41,3 +41,11 @@ Topic: LinkedList
 14. Intersection of Two Linked Lists : https://leetcode.com/problems/intersection-of-two-linked-lists/
 15. Subtract Two Linked Lists : https://nados.io/content/eb9863ac-63ac-4b94-881f-0aeb24df0985/0c54b191-7b99-4f2c-acb3-e7f2ec748b2a/7fdb0602-0ac9-4484-aff9-a898aed5cd28/d108313e-68c8-4fc6-bb02-6e9a9010ef9e/1e4c8949-5890-4d15-be5b-6601c7e2029a/question/112da43a-d52c-407c-bea0-eaf0de20d558
 16. Add Two Linkedlist: https://nados.io/content/eb9863ac-63ac-4b94-881f-0aeb24df0985/0c54b191-7b99-4f2c-acb3-e7f2ec748b2a/7fdb0602-0ac9-4484-aff9-a898aed5cd28/d108313e-68c8-4fc6-bb02-6e9a9010ef9e/1e4c8949-5890-4d15-be5b-6601c7e2029a/question/2354569d-023f-4ca0-b94f-f6bac8ae4f06
+
+### Day - 06, 06-01-2022
+
+Topic: LinkedList
+
+17. Multiply Two Linkedlist : https://nados.io/content/eb9863ac-63ac-4b94-881f-0aeb24df0985/0c54b191-7b99-4f2c-acb3-e7f2ec748b2a/7fdb0602-0ac9-4484-aff9-a898aed5cd28/d108313e-68c8-4fc6-bb02-6e9a9010ef9e/1e4c8949-5890-4d15-be5b-6601c7e2029a/question/54aede25-48b0-4ae3-a788-4f3eada019d4
+18. Is Cycle Present In Linkedlist : https://leetcode.com/problems/linked-list-cycle/submissions/
+19. Cycle Node In Linkedlist : https://nados.io/content/eb9863ac-63ac-4b94-881f-0aeb24df0985/0c54b191-7b99-4f2c-acb3-e7f2ec748b2a/7fdb0602-0ac9-4484-aff9-a898aed5cd28/d108313e-68c8-4fc6-bb02-6e9a9010ef9e/1e4c8949-5890-4d15-be5b-6601c7e2029a/question/b1a2d1f8-d242-45bd-9021-a90992c37451
