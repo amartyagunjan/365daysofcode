@@ -33,3 +33,11 @@ Topic: LinkedList
 11. Reverse Nodes in k-Group : https://leetcode.com/problems/reverse-nodes-in-k-group/
 12. Reverse Linked List II : https://leetcode.com/problems/reverse-linked-list-ii/
 13. Copy List with Random Pointer : https://leetcode.com/problems/copy-list-with-random-pointer/
+
+### Day - 05, 05-01-2022
+
+Topic: LinkedList
+
+14. Intersection of Two Linked Lists : https://leetcode.com/problems/intersection-of-two-linked-lists/
+15. Subtract Two Linked Lists : https://nados.io/content/eb9863ac-63ac-4b94-881f-0aeb24df0985/0c54b191-7b99-4f2c-acb3-e7f2ec748b2a/7fdb0602-0ac9-4484-aff9-a898aed5cd28/d108313e-68c8-4fc6-bb02-6e9a9010ef9e/1e4c8949-5890-4d15-be5b-6601c7e2029a/question/112da43a-d52c-407c-bea0-eaf0de20d558
+16. Add Two Linkedlist: https://nados.io/content/eb9863ac-63ac-4b94-881f-0aeb24df0985/0c54b191-7b99-4f2c-acb3-e7f2ec748b2a/7fdb0602-0ac9-4484-aff9-a898aed5cd28/d108313e-68c8-4fc6-bb02-6e9a9010ef9e/1e4c8949-5890-4d15-be5b-6601c7e2029a/question/2354569d-023f-4ca0-b94f-f6bac8ae4f06
