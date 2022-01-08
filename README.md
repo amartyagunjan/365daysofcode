@@ -50,10 +50,18 @@ Topic: LinkedList
 18. Is Cycle Present In Linkedlist : https://leetcode.com/problems/linked-list-cycle/submissions/
 19. Cycle Node In Linkedlist : https://nados.io/content/eb9863ac-63ac-4b94-881f-0aeb24df0985/0c54b191-7b99-4f2c-acb3-e7f2ec748b2a/7fdb0602-0ac9-4484-aff9-a898aed5cd28/d108313e-68c8-4fc6-bb02-6e9a9010ef9e/1e4c8949-5890-4d15-be5b-6601c7e2029a/question/b1a2d1f8-d242-45bd-9021-a90992c37451
 
-### Day - 06, 06-01-2022
+### Day - 07, 07-01-2022
 
 Topic: LinkedList
 
 20. Remove Duplicates from Sorted List : https://leetcode.com/problems/remove-duplicates-from-sorted-list/
 21. Remove Duplicates from Sorted List II : https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/
 22. Segregate 01 Node Of Linkedlist Over Swapping Nodes : https://nados.io/content/eb9863ac-63ac-4b94-881f-0aeb24df0985/0c54b191-7b99-4f2c-acb3-e7f2ec748b2a/7fdb0602-0ac9-4484-aff9-a898aed5cd28/d108313e-68c8-4fc6-bb02-6e9a9010ef9e/1e4c8949-5890-4d15-be5b-6601c7e2029a/question/270a4225-2385-464a-ac6b-0641155f70ba
+
+### Day - 08, 08-01-2022
+
+Topic: LinkedList
+
+23. Segregate 01 Node Of Linkedlist By Swapping Data : https://nados.io/question/segregate-01-node-of-linkedlist-by-swapping-data
+24. Segregate 012 Node Of Linkedlist Over Swapping Nodes : https://nados.io/question/segregate-012-node-of-linkedlist-over-swapping-nodes
+25. Segregate Node Of Linkedlist Over Last Index : https://nados.io/question/segregate-node-of-linkedlist-over-last-index.
