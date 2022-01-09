@@ -65,3 +65,11 @@ Topic: LinkedList
 23. Segregate 01 Node Of Linkedlist By Swapping Data : https://nados.io/question/segregate-01-node-of-linkedlist-by-swapping-data
 24. Segregate 012 Node Of Linkedlist Over Swapping Nodes : https://nados.io/question/segregate-012-node-of-linkedlist-over-swapping-nodes
 25. Segregate Node Of Linkedlist Over Last Index : https://nados.io/question/segregate-node-of-linkedlist-over-last-index.
+
+### Day - 09, 09-01-2022
+
+Topic: LinkedList
+
+26. Segregate Node Of Linkedlist Over Last Index : https://nados.io/question/segregate-node-of-linkedlist-over-last-index
+27. Segregate Node Of Linkedlist Over Pivot Index : https://leetcode.com/problems/partition-list/submissions/
+28. Quicksort In Linkedlist : https://nados.io/question/quicksort-in-linkedlist
