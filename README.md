@@ -78,7 +78,7 @@ Topic: LinkedList
 
 Topic: LinkedList
 
-29.Add First In Doubly Linkedlist : https://nados.io/question/add-first-in-doubly-linkedlist
+29. Add First In Doubly Linkedlist : https://nados.io/question/add-first-in-doubly-linkedlist
 30. Add Last In Doubly Linkedlist : https://nados.io/question/add-last-in-doubly-linkedlist
 32. Remove First In Doubly Linkedlist : https://nados.io/question/remove-first-in-doubly-linkedlist
 34. Remove Last In Doubly Linkedlist : https://nados.io/question/remove-last-in-doubly-linkedlist
