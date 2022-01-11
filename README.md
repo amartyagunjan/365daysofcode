@@ -73,3 +73,13 @@ Topic: LinkedList
 26. Segregate Node Of Linkedlist Over Last Index : https://nados.io/question/segregate-node-of-linkedlist-over-last-index
 27. Segregate Node Of Linkedlist Over Pivot Index : https://leetcode.com/problems/partition-list/submissions/
 28. Quicksort In Linkedlist : https://nados.io/question/quicksort-in-linkedlist
+
+### Day - 09, 09-01-2022
+
+Topic: LinkedList
+
+29. Add First In Doubly Linkedlist : https://nados.io/question/add-first-in-doubly-linkedlist
+30. Add Last In Doubly Linkedlist : https://nados.io/question/add-last-in-doubly-linkedlist
+32. Remove First In Doubly Linkedlist : https://nados.io/question/remove-first-in-doubly-linkedlist
+34. Remove Last In Doubly Linkedlist : https://nados.io/question/remove-last-in-doubly-linkedlist
+
