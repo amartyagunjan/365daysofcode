@@ -74,12 +74,31 @@ Topic: LinkedList
 27. Segregate Node Of Linkedlist Over Pivot Index : https://leetcode.com/problems/partition-list/submissions/
 28. Quicksort In Linkedlist : https://nados.io/question/quicksort-in-linkedlist
 
-### Day - 09, 09-01-2022
+### Day - 10, 10-01-2022
 
 Topic: LinkedList
 
 29. Add First In Doubly Linkedlist : https://nados.io/question/add-first-in-doubly-linkedlist
 30. Add Last In Doubly Linkedlist : https://nados.io/question/add-last-in-doubly-linkedlist
-32. Remove First In Doubly Linkedlist : https://nados.io/question/remove-first-in-doubly-linkedlist
-34. Remove Last In Doubly Linkedlist : https://nados.io/question/remove-last-in-doubly-linkedlist
+31. Remove First In Doubly Linkedlist : https://nados.io/question/remove-first-in-doubly-linkedlist
+32. Remove Last In Doubly Linkedlist : https://nados.io/question/remove-last-in-doubly-linkedlist
+
+### Day - 11, 01-01-2022
+
+Topic: LinkedList
+
+33. Get First And Get Last In Doubly Linkedlist : https://lnkd.in/d8Ad8iyY
+34. Get At In Doubly Linkedlist : https://lnkd.in/dDkxNmvF
+35. Add At In Doubly Linkedlist : https://lnkd.in/d_tsNFc4
+
+### Day - 12, 12-01-2022
+
+Topic: LinkedList
+
+36. Remove At In Doubly Linkedlist : https://nados.io/question/remove-at-in-doubly-linkedlist
+37. Add Before In Doubly Linkedlist : https://nados.io/question/add-before-in-doubly-linkedlist
+38. Add After In Doubly Linkedlist : https://nados.io/question/add-after-in-doubly-linkedlist
+39. Remove After In Doubly Linkedlist : https://nados.io/question/remove-after-in-doubly-linkedlist
+40. Remove Before In Doubly Linkedlist : https://nados.io/question/remove-before-in-doubly-linkedlist
+
 
