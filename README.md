@@ -101,4 +101,14 @@ Topic: LinkedList
 39. Remove After In Doubly Linkedlist : https://nados.io/question/remove-after-in-doubly-linkedlist
 40. Remove Before In Doubly Linkedlist : https://nados.io/question/remove-before-in-doubly-linkedlist
 
+### Day - 13, 13-01-2022
+
+Topic: LinkedList
+
+41. Remove Node In Doubly Linkedlist : https://nados.io/question/remove-node-in-doubly-linkedlist
+42. Display Forward And Backward In Doubly Linkedlist : https://nados.io/question/display-forward-and-backward-in-doubly-linkedlist
+43. Delete Node in a Linked List : https://leetcode.com/problems/delete-node-in-a-linked-list/
+
+
+
 
