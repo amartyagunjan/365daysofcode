@@ -117,5 +117,12 @@ Topic: Graphs
 45. Number of Enclaves : https://leetcode.com/problems/number-of-enclaves/
 46. 01 Matrix : https://leetcode.com/problems/01-matrix/
 
+### Day - 15, 15-01-2022
+
+Topic: Graphs
+
+47. Number Of Distinct Island : https://leetcode.com/problems/number-of-distinct-islands/
+48. Rotting Oranges : https://leetcode.com/problems/rotting-oranges/
+
 
 
