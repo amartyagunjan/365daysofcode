@@ -124,5 +124,13 @@ Topic: Graphs
 47. Number Of Distinct Island : https://leetcode.com/problems/number-of-distinct-islands/
 48. Rotting Oranges : https://leetcode.com/problems/rotting-oranges/
 
+### Day - 16, 16-01-2022
+
+Topic: Graphs
+
+49. As Far from Land as Possible : https://leetcode.com/problems/as-far-from-land-as-possible/
+50. Sliding Puzzle : https://leetcode.com/problems/sliding-puzzle/
+
+
 
 
