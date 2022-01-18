@@ -131,6 +131,15 @@ Topic: Graphs
 49. As Far from Land as Possible : https://leetcode.com/problems/as-far-from-land-as-possible/
 50. Sliding Puzzle : https://leetcode.com/problems/sliding-puzzle/
 
+### Day - 17, 17-01-2022
+
+Topic: HashMap And Heap
+
+-> Number Of Employees Under Every Manager: https://nados.io/question/number-of-employees-under-every-manager
+-> Find Itinerary From Tickets : https://nados.io/question/find-itinerary-from-tickets
+-> Check If An Array Can Be Divided Into Pairs Whose Sum Is Divisible By K : https://nados.io/question/check-if-an-array-can-be-divided-into-pairs-whose-sum-is-divisible-by-k
+
+
 
 
 
