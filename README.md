@@ -147,6 +147,21 @@ Topic: HashMap And Heap
 -> Largest Subarray With Zero Sum : https://nados.io/question/largest-subarray-with-zero-sum
 -> Count Of All Subarrays With Zero Sum : https://nados.io/question/count-of-all-subarrays-with-zero-sum
 
+### Day - 19
+
+Topic: HashMap And Heap
+
+-> Largest Subarray With Contiguous Elements : https://nados.io/question/largest-subarray-with-contiguous-elements
+-> Smallest Substring Of A String Containing All Characters Of Another String : https://nados.io/question/smallest-substring-of-a-string-containing-all-characters-of-another-string
+-> Smallest Substring Of A String Containing All Unique Characters Of Itself : https://nados.io/question/smallest-substring-of-a-string-containing-all-unique-characters-of-itself
+
+### Day - 20
+
+Topic: HashMap And Heap
+
+-> Count Of Subarrays Having Sum Equals To K : https://nados.io/question/count-of-subarrays-having-sum-equals-to-k
+-> Longest Subarray With Equal Number Of Zeroes And Ones : https://nados.io/question/longest-subarray-with-equal-number-of-zeroes-and-ones
+-> Count Of Subarrays With Equal Number Of Zeroes And Ones : https://nados.io/question/count-of-subarrays-with-equal-number-of-zeroes-and-ones
 
 
 
