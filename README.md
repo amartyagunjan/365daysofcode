@@ -161,7 +161,7 @@ Topic: HashMap And Heap
 
 -> Count Of Subarrays Having Sum Equals To K : https://nados.io/question/count-of-subarrays-having-sum-equals-to-k
 -> Longest Subarray With Equal Number Of Zeroes And Ones : https://nados.io/question/longest-subarray-with-equal-number-of-zeroes-and-ones
--> Count Of Subarrays With Equal Number Of Zeroes And Ones : https://nados.io/question/count-of-subarrays-with-equal-number-of-zeroes-and-ones
+-> Count of Subarrays With Equal Number Of Zeroes And Ones : https://nados.io/question/count-of-subarrays-with-equal-number-of-zeroes-and-ones
 
 
 
