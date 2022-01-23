@@ -170,3 +170,10 @@ Topic: HashMap And Heap
 1. Longest Subarray With Sum Divisible By K : https://nados.io/question/longest-subarray-with-sum-divisible-by-k
 2. Count Of Subarrays With Sum Divisible By K : https://nados.io/question/count-of-subarrays-with-sum-divisible-by-k
 3. Longest Subarray With Equal Number Of 0s 1s And 2s : https://nados.io/question/longest-subarray-with-equal-number-of-0s-1s-and-2s
+
+### Day - 21
+
+Topic: HashMap And Heap
+
+1. Count Of Subarrays With Equal Number Of 0s 1s And 2s : https://nados.io/question/count-of-subarrays-with-equal-number-of-0s-1s-and-2s
+2. Task Completion : https://nados.io/question/task-completion
