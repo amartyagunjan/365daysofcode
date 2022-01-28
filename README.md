@@ -193,3 +193,11 @@ Topic: HashMap And Heap
 1. Count Of Substrings With Exactly K Unique Characters : https://nados.io/question/count-of-substrings-with-exactly-k-unique-characters
 2. Maximum Consecutive Ones - 1 : https://nados.io/question/maximum-consecutive-ones-1
 3. Maximum Consecutive Ones - 2 : https://nados.io/question/maximum-consecutive-ones-2
+
+### Day - 25
+
+Topic: HashMap And Heap
+
+1. Longest Substring With At Most K Unique Characters : https://nados.io/question/longest-substring-with-at-most-k-unique-characters
+2. Count Of Substrings Having At Most K Unique Characters : https://nados.io/question/count-of-substrings-having-at-most-k-unique-characters
+3. Valid Anagram : https://nados.io/question/valid-anagram
