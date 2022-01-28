@@ -171,17 +171,25 @@ Topic: HashMap And Heap
 2. Count Of Subarrays With Sum Divisible By K : https://nados.io/question/count-of-subarrays-with-sum-divisible-by-k
 3. Longest Subarray With Equal Number Of 0s 1s And 2s : https://nados.io/question/longest-subarray-with-equal-number-of-0s-1s-and-2s
 
-### Day - 21
+### Day - 22
 
 Topic: HashMap And Heap
 
 1. Count Of Subarrays With Equal Number Of 0s 1s And 2s : https://nados.io/question/count-of-subarrays-with-equal-number-of-0s-1s-and-2s
 2. Task Completion : https://nados.io/question/task-completion
 
-### Day - 21
+### Day - 23
 
 Topic: HashMap And Heap
 
 1. Longest Substring With Non Repeating Characters : https://nados.io/question/longest-substring-with-non-repeating-characters
 2. Count Of Substrings Having All Unique Characters : https://nados.io/question/count-of-substrings-having-all-unique-characters
 3. Longest Substring With Exactly K Unique Characters : https://nados.io/question/longest-substring-with-exactly-k-unique-characters
+
+### Day - 24
+
+Topic: HashMap And Heap
+
+1. Count Of Substrings With Exactly K Unique Characters : https://nados.io/question/count-of-substrings-with-exactly-k-unique-characters
+2. Maximum Consecutive Ones - 1 : https://nados.io/question/maximum-consecutive-ones-1
+3. Maximum Consecutive Ones - 2 : https://nados.io/question/maximum-consecutive-ones-2
