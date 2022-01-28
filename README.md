@@ -177,3 +177,11 @@ Topic: HashMap And Heap
 
 1. Count Of Subarrays With Equal Number Of 0s 1s And 2s : https://nados.io/question/count-of-subarrays-with-equal-number-of-0s-1s-and-2s
 2. Task Completion : https://nados.io/question/task-completion
+
+### Day - 21
+
+Topic: HashMap And Heap
+
+1. Longest Substring With Non Repeating Characters : https://nados.io/question/longest-substring-with-non-repeating-characters
+2. Count Of Substrings Having All Unique Characters : https://nados.io/question/count-of-substrings-having-all-unique-characters
+3. Longest Substring With Exactly K Unique Characters : https://nados.io/question/longest-substring-with-exactly-k-unique-characters
