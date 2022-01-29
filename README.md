@@ -201,3 +201,11 @@ Topic: HashMap And Heap
 1. Longest Substring With At Most K Unique Characters : https://nados.io/question/longest-substring-with-at-most-k-unique-characters
 2. Count Of Substrings Having At Most K Unique Characters : https://nados.io/question/count-of-substrings-having-at-most-k-unique-characters
 3. Valid Anagram : https://nados.io/question/valid-anagram
+
+### Day - 26
+
+Topic: HashMap And Heap
+
+1. Find Anagram Mappings : https://nados.io/question/find-anagram-mappings
+2. Find All Anagrams In A String : https://nados.io/question/find-all-anagrams-in-a-string
+
