@@ -209,3 +209,11 @@ Topic: HashMap And Heap
 1. Find Anagram Mappings : https://nados.io/question/find-anagram-mappings
 2. Find All Anagrams In A String : https://nados.io/question/find-all-anagrams-in-a-string
 
+### Day - 27
+
+Topic: HashMap And Heap
+
+1. K Anagrams : https://nados.io/question/k-anagrams
+2. Group Shifted String : https://nados.io/question/group-shifted-string
+3. Isomorphic Strings : https://nados.io/question/isomorphic-strings
+
