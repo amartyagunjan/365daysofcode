@@ -217,3 +217,11 @@ Topic: HashMap And Heap
 2. Group Shifted String : https://nados.io/question/group-shifted-string
 3. Isomorphic Strings : https://nados.io/question/isomorphic-strings
 
+### Day - 28
+
+Topic: HashMap And Heap
+
+1. Word Pattern : https://nados.io/question/word-pattern
+2. Check Arithmetic Sequence : https://nados.io/question/check-arithmetic-sequence
+
+
