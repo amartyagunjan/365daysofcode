@@ -231,5 +231,12 @@ Topic: HashMap And Heap
 1. Rabbits In The Forest : https://leetcode.com/problems/rabbits-in-forest/submissions/
 2. Recurring Sequence In A Fraction : https://nados.io/question/recurring-sequence-in-a-fraction
 
+### Day - 30
+
+Topic: HashMap And Heap
+
+1. Equivalent Subarrays : https://nados.io/question/equivalent-subarrays
+2. Pairs With Equal Sum : https://nados.io/question/pairs-with-equal-sum
+
 
 
