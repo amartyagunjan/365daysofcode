@@ -238,5 +238,10 @@ Topic: HashMap And Heap
 1. Equivalent Subarrays : https://nados.io/question/equivalent-subarrays
 2. Pairs With Equal Sum : https://nados.io/question/pairs-with-equal-sum
 
+### Day - 31
 
+Topic: HashMap And Heap
+
+1. Pairs With Given Sum In Two Sorted Matrices : https://nados.io/question/pairs-with-given-sum-in-two-sorted-matrices
+2. Smallest Subarray With All Occurrences Of The Most Frequent Element : https://nados.io/question/smallest-subarray-with-all-occurrences-of-the-most-frequent-element
 
