@@ -224,4 +224,12 @@ Topic: HashMap And Heap
 1. Word Pattern : https://nados.io/question/word-pattern
 2. Check Arithmetic Sequence : https://nados.io/question/check-arithmetic-sequence
 
+### Day - 29
+
+Topic: HashMap And Heap
+
+1. Rabbits In The Forest : https://leetcode.com/problems/rabbits-in-forest/submissions/
+2. Recurring Sequence In A Fraction : https://nados.io/question/recurring-sequence-in-a-fraction
+
+
 
