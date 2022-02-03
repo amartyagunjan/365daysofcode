@@ -245,3 +245,9 @@ Topic: HashMap And Heap
 1. Pairs With Given Sum In Two Sorted Matrices : https://nados.io/question/pairs-with-given-sum-in-two-sorted-matrices
 2. Smallest Subarray With All Occurrences Of The Most Frequent Element : https://nados.io/question/smallest-subarray-with-all-occurrences-of-the-most-frequent-element
 
+### Day - 32
+
+Topic: HashMap And Heap
+
+1. Double Pair Array : https://nados.io/question/double-pair-array
+2. X Of A Kind In A Deck : 
