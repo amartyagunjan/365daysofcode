@@ -261,3 +261,10 @@ Topic: HashMap And Heap
 Topic: Graphs
 
 2. Bus Routes : https://leetcode.com/problems/bus-routes/
+
+### Day - 34
+
+Topic: Graphs
+
+1. Minimum Cost To Connect All Cities : https://nados.io/question/minimum-cost-to-connect-all-cities
+2. Zero One Matrix : https://nados.io/question/zero-one-matrix
