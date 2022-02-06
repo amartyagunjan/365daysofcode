@@ -251,3 +251,13 @@ Topic: HashMap And Heap
 
 1. Double Pair Array : https://nados.io/question/double-pair-array
 2. X Of A Kind In A Deck : 
+
+### Day - 33
+
+Topic: HashMap And Heap
+
+1. Brick Wall : https://leetcode.com/problems/brick-wall/
+
+Topic: Graphs
+
+2. Bus Routes : https://leetcode.com/problems/bus-routes/
