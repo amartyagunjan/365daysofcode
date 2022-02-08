@@ -1,43 +1,50 @@
 import java.util.*;
 
-public class GroupShiftedString {
+public class Main {
 
 	public static ArrayList<ArrayList<String>> groupShiftedStrings(String[] array) {
 		
-		HashMap<String, ArrayList<String>> map = new HashMap<String, ArrayList<String>>();
-		for(int i = 0 ;i < array.length ;i++) {
-			String codedString = generatecode(array[i]);
-			if(map.containsKey(codedString)) {
-				ArrayList<String> al = map.get(codedString);
-				al.add(array[i]);
-				map.put(codedString, al);
-			}else {
-				ArrayList<String> al = new ArrayList<String>();
-				al.add(array[i]);
-				map.put(codedString, al);
+		
+		HashMap<String, ArrayList<String>> map = new HashMap<>();
+		
+		for(String str : array ){
+			String key = prepareKey(str);
+			if(map.containsKey(key) == true){
+				ArrayList<String> list = map.get(key);
+				list.add(str);				
+			}
+			else{
+				ArrayList<String> list = new ArrayList<>();
+				list.add(str);
+				map.put(key, list);
 			}
 		}
 
-		ArrayList<ArrayList<String>> ans = new ArrayList<ArrayList<String>>();
-		for (ArrayList<String> al : map.values()) {
-			ans.add(al);
+		ArrayList<ArrayList<String>> res = new ArrayList<>();
+
+		for(ArrayList<String> list : map.values()){
+			res.add(list);
 		}
-		return ans;
+
+		return res;
 	}
 
-	public static String generatecode(String str) {
-		String ans = "";
-		for(int i = 1; i < str.length() ; i++) {
-			char ch1 = str.charAt(i);
-			char ch2 = str.charAt(i - 1);
-			int diff = ch1 - ch2;
-			if(diff < 0) {
+
+	
+	public static String prepareKey(String str){
+		String key = "";
+
+		for(int i = 1; i < str.length(); i++){
+			int diff = str.charAt(i) - str.charAt(i-1);
+			if(diff < 0){
 				diff += 26;
 			}
-			ans += 'a' + diff;
+			key += diff + "#";
 		}
-		
-		return ans;
+
+		key += ".";
+
+		return key;
 	}
 
 	public static void main(String[] args) {
