@@ -268,3 +268,24 @@ Topic: Graphs
 
 1. Minimum Cost To Connect All Cities : https://nados.io/question/minimum-cost-to-connect-all-cities
 2. Zero One Matrix : https://nados.io/question/zero-one-matrix
+
+### Day - 35
+
+Topic: Graphs
+
+1. As Far From Land As Possible : https://nados.io/question/as-far-from-land-as-possible
+2. Mother Vertex : https://nados.io/question/mother-vertex
+
+### Day - 36
+
+Topic: Graphs
+
+1. Kosaraju Algorithm : https://nados.io/question/kosaraju-algorithm
+2. Shortest Bridge : https://nados.io/question/shortest-bridge
+
+### Day - 37
+
+Topic: Graphs
+
+1. Articulation Point : https://nados.io/question/articulation-point
+2. Critical Connection : https://nados.io/question/critical-connection
