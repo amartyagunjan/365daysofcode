@@ -1,3 +1,5 @@
+import java.util.*;
+
 // copy and paste the code in leetcode console 
 // q no : 781
 

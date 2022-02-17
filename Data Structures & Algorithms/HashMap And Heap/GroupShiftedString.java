@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main {
+public class GroupShiftedString {
 
 	public static ArrayList<ArrayList<String>> groupShiftedStrings(String[] array) {
 		
@@ -48,18 +48,19 @@ public class Main {
 	}
 
 	public static void main(String[] args) {
-		Scanner sc = new Scanner(System.in);
-		int N = sc.nextInt();
-		String[] arr = new String[N];
-		for (int i = 0; i < N; i++) {
-			arr[i] = sc.next();
+		try (Scanner sc = new Scanner(System.in)) {
+			int N = sc.nextInt();
+			String[] arr = new String[N];
+			for (int i = 0; i < N; i++) {
+				arr[i] = sc.next();
+			}
+			ArrayList<ArrayList<String>> shiftedGroup = groupShiftedStrings(arr);
+			for (ArrayList<String> lst : shiftedGroup) {
+				Collections.sort(lst);
+			}
+			shiftedGroup.sort(new ListComparator());
+			display(shiftedGroup);
 		}
-		ArrayList<ArrayList<String>> shiftedGroup = groupShiftedStrings(arr);
-		for (ArrayList<String> lst : shiftedGroup) {
-			Collections.sort(lst);
-		}
-		shiftedGroup.sort(new ListComparator());
-		display(shiftedGroup);
 	}
 
 	// it is used to make the result unique
