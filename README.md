@@ -289,3 +289,37 @@ Topic: Graphs
 
 1. Articulation Point : https://nados.io/question/articulation-point
 2. Critical Connection : https://nados.io/question/critical-connection
+
+### Day - 38
+
+Topic: Graphs
+
+1. Number Of Island 2 : https://nados.io/question/number-of-island-2
+2. Redundant Connection : https://nados.io/question/redundant-connection
+
+### Day - 39
+
+Topic: Graphs
+
+1. Redundant Connection 2 : https://nados.io/question/edundant-connection-2
+2. Kruskal Algorithm : https://nados.io/question/kruskal-algorithm
+
+### Day - 40
+
+Topic: Graphs
+
+1. Satisfiability Of Equality Equation : https://nados.io/question/satisfiability-of-equality-equation
+2. Sentence Similarity : https://nados.io/question/sentence_similarity
+
+### Day - 41
+
+Topic: Graphs
+
+1. Bellman Ford : https://nados.io/question/bellman-ford
+2. Negative Weight Cycle Detection : https://nados.io/question/Negative-Weight-Cycle-Detection
+
+### Day - 42
+
+Topic: Web develoment
+
+1. Revision of JavaScript basics
