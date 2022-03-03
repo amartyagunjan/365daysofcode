@@ -3,7 +3,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.*;
 
-class Main {
+class ZeroOneMatrix {
   private static class Pair {
     int x;
     int y;
