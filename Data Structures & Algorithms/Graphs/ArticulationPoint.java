@@ -66,6 +66,7 @@ class ArticulationPoint {
                 dfs(v, graph);
                 low[u] = Math.min(low[u], low[v]);
 
+                // the following is the diffrence between the articulation and critical connection problem.
                 if (parent[u] == -1) {
                     // it is the start point of the segment tree.
                     if (count >= 2) {
