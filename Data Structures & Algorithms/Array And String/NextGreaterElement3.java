@@ -1,10 +1,7 @@
-public class NextGreaterElement3 {
-    
-}
 
 import java.util.*;
 
-public class Main {
+public class NextGreaterElement3 {
     
     //~~~~~~~~~~~~~~User Section~~~~~~~~~~~~~~~~~~
     public static String nextGreaterElement(String str) {
