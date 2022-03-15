@@ -30,7 +30,8 @@ let buffer = fs.readFileSync("02_abc.js");
 // creating new file inside that folder
 // fs.writeFileSync("Nayi Directory/nayiFile.txt", "Naya content");
 
-// gives you list of contents inside that folder
+// reads and lists of contents inside that folder
+// 
 let content = fs.readdirSync("Nayi Directory");
 console.log(content);
 
