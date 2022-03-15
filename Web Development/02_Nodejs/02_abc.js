@@ -1,0 +1,1 @@
+console.log("abc file is getting printed via 01_childProcess.js");
